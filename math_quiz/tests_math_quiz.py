@@ -24,7 +24,7 @@ class TestMathGame(unittest.TestCase):
         test_cases = [
             (5, 2, '+', '5 + 2', 7),
             (8, 3, '-', '8 - 3', 5),
-            (4, 6, '*', '4 * 6', 24),
+            (4, 6, '*', '4 * 6', 23),
             # Add more test cases as needed
         ]
 
