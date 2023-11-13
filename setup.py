@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         # Adding the dependencies down here
-        'random',
+       # 'random',
     ],
    # entry_points={
     #    'console_scripts': [
